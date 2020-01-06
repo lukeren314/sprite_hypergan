@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Luke Ren\\Documents\\coding_projects\\sprie_gen_hypergan\\saves\\sprite_gen_2/model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\Luke Ren\\Documents\\coding_projects\\sprie_gen_hypergan\\saves\\sprite_gen_2/model.ckpt"

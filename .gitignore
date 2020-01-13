@@ -1,3 +1,9 @@
 *.png
 *.jpg
+dataset8
+samples
 env
+*.ppk
+public
+saves
+.vscode
